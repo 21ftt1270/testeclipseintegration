@@ -1,10 +1,10 @@
 package testeclipseintegration.test;
 
-public class ClassA {
+public class ClassB {
 	
 	private String abc;
 	
-	public ClassA(String abc) {
+	public ClassB(String abc) {
 		this.abc = abc;
 	}
 	
